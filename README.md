@@ -22,7 +22,7 @@
 #### 版本管理工具
 [Git](https://git-scm.com)	命令行版本管理工具，分支管理极优秀。`Mac` `Linux` `Windows`
 
-[SourceTree](https://www.sourcetreeapp.com)	较好的前端Git GUI工具。`Mac` `Linux` `Windows`
+[SourceTree](https://www.sourcetreeapp.com)	较好的前端Git GUI工具。`Mac` `Windows`
 
 [GitHub](https://github.com)	云端git托管，适合开源项目，隐私项目也可购买付费版。缺点是没有权限管理。`Web`
 
